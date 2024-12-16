@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>COUNTING PROGRAM</title>
 </head>
 <body>
-    <FORM action = "index.php" method ="post" align="center">
+    <FORM action = "counting.php" method ="post" align="center">
         <label>Enter a number to count to:</label><br>
         <input type="text" name = "number"><br>
         <label>Enter a number to down to:</label><br>
